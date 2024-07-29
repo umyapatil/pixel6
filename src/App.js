@@ -1,4 +1,4 @@
-import UserDetails from "./components/userDetails/userDetails"
+import UserDetails from "./components/EmployeesDetails/EmployeesDetails"
 import './App.css';
 
 function App() {
